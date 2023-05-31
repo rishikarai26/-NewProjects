@@ -6,7 +6,7 @@ public class HiTech {
          System.out.println(name);
      
      if (name.equals("Hello")) {
-         System.out.println("Hello Printed");
+         System.out.println("Hello ");
      }
    }
 }
